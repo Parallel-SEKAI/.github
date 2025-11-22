@@ -9,5 +9,5 @@
 
 ### 打赏
 
-- [爱发电](https://afdian.com/a/Parallel-SEKAI)
 - [微信赞赏码](wechat.png)
+- [爱发电](https://afdian.com/a/Parallel-SEKAI)
