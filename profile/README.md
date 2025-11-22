@@ -6,3 +6,8 @@
     <h2>Parallel SEKAI</h2>
     <p>愿所有事情都能在平行世界中得到解决</p>
 </div>
+
+### 打赏
+
+- [爱发电](https://afdian.com/a/Parallel-SEKAI)
+- [微信赞赏码](wechat.png)
